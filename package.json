@@ -1,0 +1,19 @@
+{
+  "name": "jbook",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "lerna run start --parallel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavesh112/jbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavesh112/jbook/issues"
+  },
+  "homepage": "https://github.com/bhavesh112/jbook#readme"
+}
